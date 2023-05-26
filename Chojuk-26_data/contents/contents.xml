@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contents>
+
+  <features>
+    <feature name="show-titles" value="true"/>
+    <feature name="show-subtitles" value="true"/>
+    <feature name="show-references" value="true"/>
+    <feature name="show-text-size-button" value="false"/>
+    <feature name="launch-action" value="previous"/>
+    <feature name="navigation-type" value="menu"/>
+    <feature name="title-type" value="screen"/>
+  </features>
+
+  <contents-items>
+    <contents-item id="1">
+      <title lang="default">སྤྱོད་འཇུག་རྩ་བ།</title>
+      <subtitle lang="default">ཞི་བ་སླ།</subtitle>
+      <image-filename>02-shiwalha.png</image-filename>
+      <link type="reference" target="B001" />
+      <layout mode="single">
+        <layout-collection id="C01"/>
+      </layout>
+    </contents-item>
+
+    <contents-item id="2">
+      <title lang="default">སྤྱོད་འཇུག་ལེའུ་གཉིས་པ།</title>
+      <link type="reference" target="B002" />
+      <layout mode="single">
+        <layout-collection id="C01"/>
+      </layout>
+    </contents-item>
+
+    <contents-item id="3">
+      <title lang="default">སྤྱོད་འཇུག་ལེའུ་གསུམ་པ།</title>
+      <link type="reference" target="B003" />
+    </contents-item>
+
+    <contents-item id="4">
+      <title lang="default">སྤྱོད་འཇུག་ལེའུ་བཞི་བ།</title>
+      <link type="reference" target="B004" />
+    </contents-item>
+
+    <contents-item id="5">
+      <title lang="default">སྤྱོད་འཇུག་ལེའུ་ལྔ་བ།</title>
+      <link type="reference" target="B005" />
+    </contents-item>
+
+    <contents-item id="6">
+      <title lang="default">སྤྱོད་འཇུག་ལེའུ་དྲུག་པ།</title>
+      <link type="reference" target="B006" />
+    </contents-item>
+
+    <contents-item id="7">
+      <title lang="default">སྤྱོད་འཇུག་ལེའུ་བདུན་པ།</title>
+      <link type="reference" target="B007" />
+    </contents-item>
+
+    <contents-item id="8">
+      <title lang="default">སྤྱོད་འཇུག་ལེའུ་བརྒྱད་པ།</title>
+      <link type="reference" target="B008" />
+    </contents-item>
+
+    <contents-item id="9">
+      <title lang="default">སྤྱོད་འཇུག་ལེའུ་དགུ་བ།</title>
+      <link type="reference" target="B009" />
+    </contents-item>
+
+    <contents-item id="10">
+      <title lang="default">སྤྱོད་འཇུག་ལེའུ་བཅུ་བ།</title>
+      <link type="reference" target="B010" />
+    </contents-item>
+
+    <contents-item id="11">
+      <title lang="default">ཐོགས་མེད་སྤྱོད་འགྲེལ།</title>
+      <image-filename>01-Thokme.png</image-filename>
+      <link type="reference" target="B001.1.1" />
+      <layout mode="single">
+        <layout-collection id="C02"/>
+      </layout>
+    </contents-item>
+
+    <contents-item id="12">
+      <title lang="default">ཀུན་དཔལ་སྤྱོད་འགྲེལ།</title>
+      <image-filename>03-kunpal.png</image-filename>
+      <link type="reference" target="B001" />
+      <layout mode="single">
+        <layout-collection id="C03"/>
+      </layout>
+    </contents-item>
+
+    <contents-item id="13">
+      <title lang="default">ཐུབ་བསྟན་ཆོས་གྲཊ་ཀྱི་སྤྱོད་འགྲེལ།</title>
+      <image-filename>02-shiwalha.png</image-filename>
+      <link type="reference" target="B001" />
+      <layout mode="single">
+        <layout-collection id="C04"/>
+      </layout>
+    </contents-item>
+  </contents-items>
+
+  <contents-screens>
+    <contents-screen id="1">
+      <title lang="default">གཙོ་ངོས།</title>
+      <items>
+        <item id="1" />
+        <item id="2" />
+        <item id="3" />
+        <item id="4" />
+        <item id="5" />
+        <item id="6" />
+        <item id="7" />
+        <item id="8" />
+        <item id="9" />
+        <item id="10" />
+        <item id="11" />
+        <item id="12" />
+        <item id="13" />
+      </items>
+    </contents-screen>
+  </contents-screens>
+</contents>
